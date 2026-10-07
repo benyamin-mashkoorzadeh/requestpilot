@@ -1,0 +1,41 @@
+"text","priority"
+"We are sketching a possible branch office for 2028 and would like a rough overview of plan sizes",low
+"For our documentation, how are taxes normally displayed on invoices issued in another currency?",low
+"The footer logo is a few pixels off-center in archived PDFs, though the documents remain readable",low
+"Before buying event passes later this year, I would like to understand the return policy",low
+"Could you explain whether a subscription can be paused if our research project takes a break next winter?",low
+"We are building a long-term technology roadmap and want to know whether your product supports data residency options",low
+"Dates use the US format in one settings preview; the stored dates and reports are correct",low
+"Our finance team is designing next fiscal year's purchase-order numbering and has a question about invoice fields",low
+"If a gift subscription is never activated, what choices would the purchaser generally have?",low
+"We may sell a subsidiary next year and are gathering information about transferring or closing its account",low
+"Two new colleagues have not received their invitations, but they can use shared guest access while we sort it out",normal
+"Please add our updated tax registration number before the invoice generated three weeks from now",normal
+"I selected the wrong report template from the marketplace yesterday and would like that small purchase reversed",normal
+"Our monthly plan is no longer needed after this cycle, so please arrange for it to finish on the usual end date",normal
+"We would like a demonstration sometime next fortnight before choosing licenses for a new five-person team",normal
+"The scheduled report stopped arriving this week; downloading it manually is working in the meantime",normal
+"There is a card entry from Monday that we recognize, but we need help matching it to the correct invoice",normal
+"A duplicate charge of twenty-five dollars appeared on my statement and I would like one copy returned",normal
+"Please remove the translation add-on when the current quarter ends while leaving the main plan alone",normal
+"Can you quote twelve additional seats for a department that expects to expand next month?",normal
+"Twelve service agents cannot open customer histories; supervisors are sharing screenshots, but the backlog is growing",high
+"A wrong total on our invoice is preventing a shipment release that must be approved by tomorrow afternoon",high
+"A five-figure annual renewal is due in thirty-six hours and our cancellation confirmation has not arrived",high
+"We need final contract terms today so the implementation team can keep Friday's planned launch slot",high
+"A duplicate payment of fifteen thousand dollars is constraining this week's cash, although payroll is covered",high
+"API updates are two hours behind, forcing manual order entry and putting tonight's service target at risk",high
+"Our replacement card is being declined and account restrictions begin tomorrow morning if payment remains unresolved",high
+"A departing contractor still controls the workspace owner role; their access ends tomorrow and we need ownership moved",high
+"The directors meet first thing tomorrow to approve the purchase, but the revised pricing has not been delivered",high
+"A supplier expects payment on Friday, and the delayed reimbursement is tying up most of the funds allocated to it",high
+"The system coordinating today's medication deliveries is offline and dispatchers cannot release any pending routes",urgent
+"Private client records are currently visible to users from another organization and new exposures are still being reported",urgent
+"Fresh charges are posting to our company card every few minutes even after we disabled all paid features",urgent
+"A one-hundred-thousand-dollar contract renews in twenty minutes despite our documented request to end it",urgent
+"The duplicate withdrawal consumed the payroll balance and salaries are scheduled to leave the account within the hour",urgent
+"A disaster-relief team needs a temporary workspace within the next hour to coordinate crews already arriving on site",urgent
+"Three hundred call-center staff have lost all customer records while incoming calls continue to queue",urgent
+"The account will be suspended in thirty minutes, which would disconnect the live controls used at our warehouse",urgent
+"A former vendor is downloading files from the workspace now; close their organization account before more data leaves",urgent
+"The accidental transfer emptied my rent account and the bank can stop today's debit only if the reversal is submitted now",urgent

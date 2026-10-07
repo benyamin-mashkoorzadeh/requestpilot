@@ -1,0 +1,31 @@
+text,intent
+"Do you have special pricing for nonprofit organizations",sales
+"We may replace our current vendor and want to know your onboarding costs",sales
+"Please return the duplicate amount that was taken from my card",refund
+"Could you recommend a package for a seasonal team whose size changes during the year",sales
+"Please cancel the additional product attached to our main account",cancellation
+"Can an account manager contact me about purchasing the platform",sales
+"What date will the next payment be collected from our account",billing
+"Our procurement team requires a purchase order number on every invoice",billing
+"The dashboard totals do not match the records shown underneath",support
+"The add-on does not work with our setup so I am asking for reimbursement",refund
+"The mobile app closes whenever I open a customer record",support
+"We canceled during the guarantee period and would like the charge returned",refund
+"I want written confirmation that the subscription will end",cancellation
+"A form freezes after I press save and none of the changes appear",support
+"I want to end the service but download our information first",cancellation
+"Could you provide a tailored estimate based on our expected usage",sales
+"Can the charge for the accidental upgrade be sent back to the original card",refund
+"Please change the person who receives billing notifications",billing
+"I need to remove the paid plan and return the account to the free level",cancellation
+"Notifications have stopped arriving even though they are enabled",support
+"The amount taken from our card differs from the total shown in the portal",billing
+"Can we change from monthly payments to one annual payment",billing
+"Can account credit be converted back into money on our card",refund
+"What would be the best option for a small consultancy with six people",sales
+"Our single sign-on setup redirects users back to the login page",support
+"I no longer need the extra licenses and want the recent purchase reversed",refund
+"Please prevent any further renewals on my workspace",cancellation
+"I need a receipt for the payment made earlier this week",billing
+"Can you deactivate the paid membership after this billing period",cancellation
+"I invited a colleague but they never received access to the workspace",support

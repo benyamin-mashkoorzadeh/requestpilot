@@ -1,0 +1,21 @@
+text,intent,priority
+"This is marked urgent in my notes, but we are only gathering rough license options for a project that may happen in two years.",sales,low
+"Could you quote six seats for a small team that expects to start next month?",sales,normal
+"Our launch review is tomorrow; we need revised commercial terms today, although the current vendor can cover us for another week.",sales,high
+"A relief center opening now has no coordination system, and purchasing access is the only way its arriving crews can begin work.",sales,urgent
+"One user cannot save a personal filter, but their daily tasks work and the issue can follow the regular support process.",support,normal
+"The team calls this a critical outage, yet traffic is flowing through a slower backup connection until tomorrow.",support,high
+"Without any warning language: every employee sees a blank screen and the company has no alternate way to process today's orders.",support,urgent
+"For a possible future rollout, where could administrators find diagnostic logs if something eventually went wrong?",support,low
+"A five-figure invoice mismatch must be settled before tomorrow's supplier release; a temporary credit keeps today's work moving.",billing,high
+"New card withdrawals are continuing while we watch, and the operating balance is falling with each transaction.",billing,urgent
+"An old invoice is titled URGENT PROJECT, but it is paid and I only want to understand the historical label.",billing,low
+"Please update the address used on ordinary receipts before the next monthly statement.",billing,normal
+"Cancel the transfer and return the money now: repeated withdrawals are consuming the funds needed for payroll this hour.",refund,urgent
+"If we cancel a purchase someday, would a refund normally return to the original payment method? Nothing has been bought.",refund,low
+"Please cancel yesterday's duplicate transaction and refund one copy while keeping the subscription running.",refund,normal
+"A large reimbursement is late and constraining this week's budget, but reserves cover all immediate obligations.",refund,high
+"We are documenting whether a refund remains possible after cancellation next year; do not change the account today.",cancellation,low
+"The refund was already completed; please end the related add-on at the usual close of this billing period.",cancellation,normal
+"Stop the department plan before tomorrow's renewal; users can continue in the parent workspace during the transition.",cancellation,high
+"The organization-wide account renews for a very large amount in fifteen minutes despite an accepted closure request.",cancellation,urgent
